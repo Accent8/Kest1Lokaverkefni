@@ -11,7 +11,7 @@ til þess að opna fyrir aðganginn hjá Erlu og Erlendi þarftu að láta inn s
 sudo usermord -u user , usernameið þeirra er "erla" og "erlendur"
 
 ### 3. 
-<img width="273" alt="image" src="https://user-images.githubusercontent.com/70168436/205622179-89bdd521-5afa-406f-a375-9142438eb7f2.png">
+<img width="551" alt="image" src="https://user-images.githubusercontent.com/70168436/205623079-4f274531-521c-4443-90d5-39258bc9de5f.png">
 
 ### 4.
 <img width="602" alt="image" src="https://user-images.githubusercontent.com/70168436/205622371-a96aed12-8cd4-4a17-a126-a65ab5b09028.png">
