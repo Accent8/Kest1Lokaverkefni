@@ -14,6 +14,7 @@ til að gera ný folder þarftu að skrifa inn mkdir "directory" "nafn af filein
 
 ### 3. Screenshot af Gogn
 <img width="551" alt="image" src="https://user-images.githubusercontent.com/70168436/205630641-22e6ee88-52ab-414a-94a3-6fa92839e560.png">
+
 ### 4. Screenshot af passwd skránni
 <img width="602" alt="image" src="https://user-images.githubusercontent.com/70168436/205622371-a96aed12-8cd4-4a17-a126-a65ab5b09028.png">
 
